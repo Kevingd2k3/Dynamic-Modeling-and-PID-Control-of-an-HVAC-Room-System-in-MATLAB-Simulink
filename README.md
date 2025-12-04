@@ -66,12 +66,15 @@ Iterative tuning was performed to achieve stability.
 
 | Attempt | Kp | Ki | Kd | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **1** | 200 | 0.1 | 0 | Slow response, underdamped. |![alt text](1.png)
-| **2** | 500 | 0.05 | 0 | Stable, minimal overshoot. |![alt text](2.png)
-| **3** | High | Low | 0 | Stable but slower convergence. |![alt text](3.png)
+| **1** | 200 | 0.1 | 0 | Slow response, underdamped. |
+| **2** | 500 | 0.05 | 0 | Stable, minimal overshoot. |
+| **3** | High | Low | 0 | Stable but slower convergence. |
 
 **Final Result:** Tuning strategy #2 was selected for smooth and stable control.
 
+![First Iteration](1.png)
+![Second Iteration](2.png)
+![Third Iteration](3.png)
 ---
 
 ## 📈 Simulation Highlights
