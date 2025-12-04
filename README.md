@@ -72,9 +72,10 @@ Iterative tuning was performed to achieve stability.
 
 **Final Result:** Tuning strategy #2 was selected for smooth and stable control.
 
-![First Iteration](1.png)
-![Second Iteration](2.png)
-![Third Iteration](3.png)
+![First_Iteration](1.png)
+![Second_Iteration](2.png)
+![Third_Iteration](3.png)
+
 ---
 
 ## 📈 Simulation Highlights
