@@ -1,8 +1,8 @@
 # 🚀 HVAC Thermal System Modeling & PID Control using MATLAB Simulink
 
 ![MATLAB](https://img.shields.io/badge/Code-MATLAB%2B-orange?logo=MATLAB&logoColor=white)
-![SimuLink](https://img.shields.io/badge/Code-SimuLink%2B-orange?logo=SimuLink&logoColor=white)
-![SimScape](https://img.shields.io/badge/Code-SimScape%2B-orange?logo=SimScape&logoColor=white)
+![SimuLink](https://img.shields.io/badge/Code-SimuLink%2B-blue?logo=SimuLink&logoColor=white)
+![SimScape](https://img.shields.io/badge/Code-SimScape%2B-blue?logo=SimScape&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
 A complete simulation of a room’s thermal behavior using **Simscape Thermal** along with a **PID-controlled HVAC system** for temperature regulation. This project demonstrates dynamic modeling, debugging, controller design, and system-level understanding using MATLAB/Simulink.
