@@ -1,4 +1,4 @@
-# 🚀 HVAC Thermal System Modeling & PID Control using MATLAB Simulink
+#  HVAC Thermal System Modeling & PID Control using MATLAB Simulink
 
 ![MATLAB](https://img.shields.io/badge/Code-MATLAB%2B-orange?logo=MATLAB&logoColor=white)
 ![SimuLink](https://img.shields.io/badge/Code-SimuLink%2B-blue?logo=SimuLink&logoColor=white)
@@ -9,7 +9,7 @@ A complete simulation of a room’s thermal behavior using **Simscape Thermal** 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project models a room as a thermal mass exposed to a constant outside temperature via wall conduction. 
 
@@ -23,7 +23,7 @@ This project models a room as a thermal mass exposed to a constant outside tempe
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 ### Simscape Thermal Components (Physical Layer)
 * **Thermal Mass:** Represents room air + thermal inertia ($C$).
@@ -41,7 +41,7 @@ This project models a room as a thermal mass exposed to a constant outside tempe
 
 ---
 
-## 🔍 Mathematical Model
+##  Mathematical Model
 
 ![MATLAB HVAC Room Model](<HVAC Room Model.png>)
 
@@ -60,7 +60,7 @@ Where $e$ is the error signal ($T_{\text{setpoint}} - T_{\text{room}}$).
 
 ---
 
-## 🎛️ PID Tuning
+## PID Tuning
 
 Iterative tuning was performed to achieve stability.
 
@@ -78,7 +78,7 @@ Iterative tuning was performed to achieve stability.
 
 ---
 
-## 📈 Simulation Highlights
+##  Simulation Highlights
 
 ### Temperature Behavior
 * Initial room temperature starts at approx **293 K**.
@@ -93,7 +93,7 @@ Iterative tuning was performed to achieve stability.
 
 ---
 
-## 🚧 Repository Structure
+##  Repository Structure
 
 ```text
 HVAC-Temperature-Control/
